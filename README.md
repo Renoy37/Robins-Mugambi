@@ -24,13 +24,12 @@ I'm a Software Developer based in Narobi. My areas of interest include backend d
 Feel free to explore my repositories to see more of my work!
 
 
-Feel free to explore my repositories to see more of my work!
 
 # Get in Touch
-I'm always open to collaboration and new opportunities. Feel free to reach out to me via email at robinsmugambi239@gmail.com or connect with me on LinkedIn at [https://www.linkedin.com/in/robins-mugambi-731235225/].
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via email at robinsmugambi239@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/robins-mugambi-731235225/).
 
 # Let's Connect!
-LinkedIn: [https://www.linkedin.com/in/robins-mugambi-731235225/]
+- LinkedIn: [Robins Mugambi](https://www.linkedin.com/in/robins-mugambi-731235225/)
 
 Thanks for stopping by! 😊
 
